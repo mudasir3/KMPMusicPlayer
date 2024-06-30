@@ -1,4 +1,4 @@
-rootProject.name = "ComposeMultiplatformProject"
+rootProject.name = "KMPMusicPlayer"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
